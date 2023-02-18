@@ -318,6 +318,11 @@ b, strong {
   color: #ffffff;
 }
 
+.dark-mode p{
+  color: #ffffffba;
+}
+
+
 .timeline-wrapper {
   position: relative;
   padding: 22px 0;
