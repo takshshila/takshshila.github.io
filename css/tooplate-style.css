@@ -32,6 +32,7 @@ ul {
 }
 ul li {
   list-style: none;
+  display: inline;
 }
 
 a {
@@ -451,7 +452,7 @@ b, strong {
 }
 
 .contact-info {
-  background: #474559;
+  background: #e5e3e8;
   border-radius: 0 0 3px 3px;
   position: relative;
   bottom: 8px;
